@@ -11,5 +11,7 @@ public class Hello{
 	// change made from aws windows
 
 	String name;
+
+	String address;
 	
 }
