@@ -9,5 +9,7 @@ public class Hello{
 	// this should create a review
 
 	// change made from aws windows
+
+	String name;
 	
 }
