@@ -14,10 +14,10 @@ public class Hello{
 
 	String address;
 	
-	// this commit should create a pull request
+
 	
-	// add assignee
+
 	
-	// no review for this commit
+
 	
 }
