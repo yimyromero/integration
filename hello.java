@@ -19,4 +19,7 @@ public class Hello{
 	// testing no creating of review after commit
 	// but will use to create review for pull request
 	
+	public Hello(){
+		
+	}
 }

@@ -9,4 +9,11 @@ public class Connet{
 	//now create a review
 	
 	//delete original and want to pull this one
+	
+	public Connect(){
+	}
+	
+	public Connect(String url, int port){
+		
+	}
 }
